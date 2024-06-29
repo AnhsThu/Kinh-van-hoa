@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kinh-van-hoa/static/css/main.87497a0b.css",
+    "main.js": "/Kinh-van-hoa/static/js/main.66b916d5.js",
+    "static/js/787.9864eaf1.chunk.js": "/Kinh-van-hoa/static/js/787.9864eaf1.chunk.js",
+    "index.html": "/Kinh-van-hoa/index.html",
+    "main.87497a0b.css.map": "/Kinh-van-hoa/static/css/main.87497a0b.css.map",
+    "main.66b916d5.js.map": "/Kinh-van-hoa/static/js/main.66b916d5.js.map",
+    "787.9864eaf1.chunk.js.map": "/Kinh-van-hoa/static/js/787.9864eaf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87497a0b.css",
+    "static/js/main.66b916d5.js"
+  ]
+}
